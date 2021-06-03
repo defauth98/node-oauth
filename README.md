@@ -7,7 +7,7 @@
 
 **Descrição**
 
-Aplicação backend que implementa o OAuth usando NodeJS;
+Aplicação backend que implementa o OAuth usando NodeJS.
 
 ### :nut_and_bolt: Tecnologias
 
