@@ -11,7 +11,7 @@ Aplicação backend que implementa o OAuth usando NodeJS.
 
 ### :nut_and_bolt: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes técnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node][nodejs]
 - [OAuth Server][oauthserver]
